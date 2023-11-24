@@ -1,0 +1,85 @@
+/* *{
+    margin: 0;
+    padding: 0;
+}*/
+body{
+    background-color: rgb(134, 55, 55);
+}
+
+
+
+/* body{
+     background-color: yellowgreen;
+     max-width:100px ;
+     justify-content: center;
+     height: 100vh;
+     align-items: center;
+     display: flex;
+     
+
+} */
+#top{
+    background-color: rgb(234, 81, 25);
+}
+/* .forme{
+    height: 110%;
+    width: 50%;
+    background-color: yellow;
+} */
+
+/* .forme{
+    display: flex;
+
+} */
+
+input{
+   height: 50px;
+   width: 296px;
+   color: blanchedalmond;
+   font-size: 40px;
+   text-align:right;
+   color: blanchedalmond;
+   background-color: black;
+}
+/* input{
+    color: blanchedalmond;
+    font-size: 40px;
+    height: 90px;
+    width: 100%;
+    background-color: black;
+    border: none;
+    border-radius: 6px;
+    text-align:right;
+} */
+
+
+
+.button{
+    height: 50px;
+}
+.btn{
+    width: 300px;
+    border-radius: 9px ;
+
+}
+
+.t1{
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+}
+.t2{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.t3{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.t4{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.t5{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
